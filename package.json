@@ -2,7 +2,7 @@
   "author": "John Fawcett (http://johnfawcett.name)",
   "name": "req-term",
   "description": "Much easier command-line http requests with syntax highlighting",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/jrf0110/req-term.git"
