@@ -1,3 +1,4 @@
 module.exports = {
-  get: require('./lib/get')
+  get  : require('./lib/get')
+, post : require('./lib/post')
 };
